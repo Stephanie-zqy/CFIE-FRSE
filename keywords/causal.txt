@@ -3,3 +3,5 @@ coronavirus
 corona
 ncov
 covid
+COVID-19
+Coronavirus
